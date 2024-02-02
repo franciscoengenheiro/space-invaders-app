@@ -11,8 +11,10 @@
 > the [CSE](https://www.isel.pt/en/curso/bsc-degree/computer-science-and-computer-engineering) undergraduate degree
 > of [ISEL](https://www.isel.pt/en), which took place in the first semester of the 2021/2022 academic year.
 
+> [!NOTE]
 > The code contains several non-game related issues mentioned in the [critical analysis](#critical-analysis) and should
-> not be used as a reference. It was
+> not be used as a reference. 
+> It was
 > solely published with the intent of documenting my progress as a software developer student, highlighting my mistakes
 > during its development.
 
@@ -318,10 +320,12 @@ and scalability. The most relevant ones are:
 - The code contains **excessive comments**, which hinders readability.
   The comments are also **inconsistent** and written in a language that is not universally understood.
 
-It's worth mentioning that the project was developed in a short period of time, and it was not intended to be
+> [!Important]
+> It's worth mentioning that the project was developed in a short period of time. It was not intended to be
 maintained or scaled, as the main goal was to learn and practice the Kotlin programming language as a way to introduce
-programming concepts to students.
-Nevertheless, such flaws should be addressed in a future version of the game if one is ever developed.
+programming basic concepts to students.
+> 
+> Nevertheless, such flaws should be addressed in a future version of the game if one is ever developed.
 
 ## Authors
 
