@@ -327,12 +327,9 @@ programming basic concepts to students.
 > 
 > Nevertheless, such flaws should be addressed in a future version of the game if one is ever developed.
 
-## Authors
-
-Francisco Engenheiro - 49428
-
 --- 
 
 Instituto Superior de Engenharia de Lisboa<br>
+BSc in Computer Science and Engineering<br>
 Programming<br>
 Winter Semester of 2021/2022
